@@ -1,0 +1,215 @@
+[15:24:03.852] [INFO] Running automigrations
+[15:24:03.889] [DEBUG] Extracting storybook data...
+[15:24:03.889] [DEBUG] Getting Storybook info...
+[15:24:04.615] [DEBUG] Loading main config...
+[15:24:04.615] [DEBUG] Getting stories paths...
+[15:24:04.749] [DEBUG] Getting package manager...
+[15:25:34.530] [DEBUG] Getting package.json info for C:/Users/fortv/OneDrive/Desktop/Component Instantiator/package.json...
+[15:25:34.530] [DEBUG] Getting Storybook version...
+[15:25:34.532] [DEBUG] Detecting CSF factory usage...
+[15:25:34.693] [INFO] Checking possible migrations..
+[15:25:34.697] [DEBUG] Running [36meslintPlugin[39m migration checks
+[15:25:34.701] [DEBUG] Using cached package.json for C:\Users\fortv\OneDrive\Desktop\Component Instantiator\package.json...
+[15:25:34.705] [WARN] Unable to find eslint config file, skipping
+[15:25:34.707] [DEBUG] End of [36meslintPlugin[39m migration checks
+[15:25:34.707] [DEBUG] Running [36maddon-mdx-gfm-remove[39m migration checks
+[15:25:34.708] [DEBUG] Using cached package.json for C:\Users\fortv\OneDrive\Desktop\Component Instantiator\package.json...
+[15:25:34.708] [DEBUG] Using cached package.json for C:\Users\fortv\package.json...
+[15:25:34.708] [DEBUG] End of [36maddon-mdx-gfm-remove[39m migration checks
+[15:25:34.708] [DEBUG] Running [36maddon-storysource-code-panel[39m migration checks
+[15:25:34.709] [DEBUG] End of [36maddon-storysource-code-panel[39m migration checks
+[15:25:34.709] [DEBUG] Running [36minitial-globals[39m migration checks
+[15:25:34.725] [DEBUG] End of [36minitial-globals[39m migration checks
+[15:25:34.725] [DEBUG] Running [36maddon-globals-api[39m migration checks
+[15:25:34.736] [DEBUG] End of [36maddon-globals-api[39m migration checks
+[15:25:34.737] [DEBUG] Running [36maddon-a11y-addon-test[39m migration checks
+[15:25:34.738] [DEBUG] End of [36maddon-a11y-addon-test[39m migration checks
+[15:25:34.738] [DEBUG] Running [36mconsolidated-imports[39m migration checks
+[15:25:34.740] [DEBUG] End of [36mconsolidated-imports[39m migration checks
+[15:25:34.740] [INFO] 🔎 found a '[36mconsolidated-imports[39m' migration:
+[15:25:34.754] [INFO] automigrate-task-consolidated-imports-task-start: Automigration detected: [36mconsolidated-imports[39m
+[15:25:34.755] [INFO] We've detected Storybook packages that have been renamed or consolidated. We'll update these packages by scanning your codebase and updating any imports from these packages.
+[15:25:57.357] [PROMPT] Do you want to run the '[36mconsolidated-imports[39m' migration on your project? {"choice":true}
+[15:25:57.546] [INFO] ✅ ran [36mconsolidated-imports[39m migration
+[15:25:57.547] [INFO] automigrate-task-consolidated-imports-task-success: Ran [36mconsolidated-imports[39m migration
+[15:25:57.548] [DEBUG] Running [36maddon-experimental-test[39m migration checks
+[15:25:57.549] [DEBUG] Getting installed version for @storybook/experimental-addon-test...
+[15:25:57.550] [DEBUG] Executing command: npm ls --json --depth=99 2>NUL
+[15:26:02.723] [DEBUG] Executing command: npm ls --json --depth=0 2>NUL
+[15:26:05.618] [DEBUG] Error finding installations for @storybook/experimental-addon-test: ExecaError: Command failed with exit code 1: npm.cmd ls --json "--depth=0" "2>NUL"
+
+npm error code EINVALIDTAGNAME
+npm error Invalid tag name "2>NUL" of package "2>NUL": Tags may not have any characters that encodeURIComponent encodes.
+npm error A complete log of this run can be found in: C:\Users\fortv\AppData\Local\npm-cache\_logs\2026-01-02T09_56_03_361Z-debug-0.log
+
+{
+  "error": {
+    "code": "EINVALIDTAGNAME",
+    "summary": "Invalid tag name \"2>NUL\" of package \"2>NUL\": Tags may not have any characters that encodeURIComponent encodes.",
+    "detail": ""
+  }
+}
+[15:26:05.618] [DEBUG] No installations found for @storybook/experimental-addon-test
+[15:26:05.618] [DEBUG] End of [36maddon-experimental-test[39m migration checks
+[15:26:05.618] [DEBUG] Running [36mrnstorybook-config[39m migration checks
+[15:26:05.619] [DEBUG] Using cached package.json for C:\Users\fortv\OneDrive\Desktop\Component Instantiator\package.json...
+[15:26:05.619] [DEBUG] Using cached package.json for C:\Users\fortv\package.json...
+[15:26:05.619] [DEBUG] End of [36mrnstorybook-config[39m migration checks
+[15:26:05.619] [DEBUG] Running [36mmigrate-addon-console[39m migration checks
+[15:26:05.619] [DEBUG] Using cached package.json for C:\Users\fortv\OneDrive\Desktop\Component Instantiator\package.json...
+[15:26:05.619] [DEBUG] Using cached package.json for C:\Users\fortv\package.json...
+[15:26:05.619] [DEBUG] End of [36mmigrate-addon-console[39m migration checks
+[15:26:05.619] [DEBUG] Running [36mnextjs-to-nextjs-vite[39m migration checks
+[15:26:05.620] [DEBUG] Using cached package.json for C:\Users\fortv\OneDrive\Desktop\Component Instantiator\package.json...
+[15:26:05.620] [DEBUG] Using cached package.json for C:\Users\fortv\package.json...
+[15:26:05.620] [DEBUG] End of [36mnextjs-to-nextjs-vite[39m migration checks
+[15:26:05.620] [DEBUG] Running [36mremove-addon-interactions[39m migration checks
+[15:26:05.620] [DEBUG] Using cached package.json for C:\Users\fortv\OneDrive\Desktop\Component Instantiator\package.json...
+[15:26:05.620] [DEBUG] Using cached package.json for C:\Users\fortv\package.json...
+[15:26:05.620] [DEBUG] End of [36mremove-addon-interactions[39m migration checks
+[15:26:05.620] [DEBUG] Running [36mrenderer-to-framework[39m migration checks
+[15:26:05.623] [DEBUG] End of [36mrenderer-to-framework[39m migration checks
+[15:26:05.623] [DEBUG] Running [36mremove-essential-addons[39m migration checks
+[15:26:05.623] [DEBUG] Using cached package.json for C:\Users\fortv\OneDrive\Desktop\Component Instantiator\package.json...
+[15:26:05.623] [DEBUG] Using cached package.json for C:\Users\fortv\package.json...
+[15:26:05.623] [DEBUG] End of [36mremove-essential-addons[39m migration checks
+[15:26:05.623] [INFO] 🔎 found a '[36mremove-essential-addons[39m' migration:
+[15:26:05.626] [INFO] automigrate-task-remove-essential-addons-task-start: Automigration detected: [36mremove-essential-addons[39m
+[15:26:05.626] [INFO] In Storybook 9.0, several addons have been moved into Storybook's core and are no longer needed as separate packages. We'll remove the unnecessary addons from your configuration and dependencies, and update your code to use the new core features.
+[15:26:08.718] [PROMPT] Do you want to run the '[36mremove-essential-addons[39m' migration on your project? {"choice":true}
+[15:26:08.731] [DEBUG] Uninstalling @storybook/addon-essentials
+[15:26:08.731] [DEBUG] Using cached package.json for C:\Users\fortv\OneDrive\Desktop\Component Instantiator\package.json...
+[15:26:08.732] [DEBUG] Using cached package.json for C:\Users\fortv\OneDrive\Desktop\Component Instantiator\package.json...
+[15:26:08.741] [DEBUG] Removing '@storybook/addon-essentials' from main.js addons field.
+[15:26:08.783] [DEBUG] Getting Storybook info...
+[15:26:08.859] [DEBUG] Loading main config...
+[15:26:08.859] [DEBUG] Getting stories paths...
+[15:26:08.862] [DEBUG] Getting package manager...
+[15:27:13.224] [DEBUG] Getting package.json info for C:/Users/fortv/OneDrive/Desktop/Component Instantiator/package.json...
+[15:27:13.225] [DEBUG] Getting Storybook version...
+[15:27:13.229] [DEBUG] Detecting CSF factory usage...
+[15:27:13.304] [INFO] Verifying @storybook/addon-docs
+[15:27:13.309] [DEBUG] Getting dependency version for storybook...
+[15:27:13.309] [DEBUG] Using cached package.json for C:\Users\fortv\OneDrive\Desktop\Component Instantiator\package.json...
+[15:27:13.309] [DEBUG] Using cached package.json for C:\Users\fortv\package.json...
+[15:27:13.309] [INFO] Installing @storybook/addon-docs@^10.2.0-alpha.10
+[15:27:13.313] [DEBUG] Using cached package.json for C:\Users\fortv\OneDrive\Desktop\Component Instantiator\package.json...
+[15:27:13.316] [DEBUG] Getting CLI versions from NPM for @storybook/addon-docs...
+[15:27:13.317] [DEBUG] Executing command: npm info @storybook/addon-docs version
+[15:27:19.081] [DEBUG] Using cached package.json for C:\Users\fortv\OneDrive\Desktop\Component Instantiator\package.json...
+[15:27:19.084] [INFO] Adding '@storybook/addon-docs' to the "addons" field in .storybook\main.ts
+[15:27:19.388] [INFO] ✅ ran [36mremove-essential-addons[39m migration
+[15:27:19.389] [INFO] automigrate-task-remove-essential-addons-task-success: Ran [36mremove-essential-addons[39m migration
+[15:27:19.390] [DEBUG] Running [36maddon-a11y-parameters[39m migration checks
+[15:27:19.397] [DEBUG] End of [36maddon-a11y-parameters[39m migration checks
+[15:27:19.398] [DEBUG] Running [36mremove-docs-autodocs[39m migration checks
+[15:27:19.406] [DEBUG] End of [36mremove-docs-autodocs[39m migration checks
+[15:27:19.406] [DEBUG] Running [36mwrap-getAbsolutePath[39m migration checks
+[15:27:19.455] [DEBUG] End of [36mwrap-getAbsolutePath[39m migration checks
+[15:27:19.455] [DEBUG] Running [36mfix-faux-esm-require[39m migration checks
+[15:27:19.459] [DEBUG] End of [36mfix-faux-esm-require[39m migration checks
+[15:27:19.470] [INFO] [32mMigration check ran successfully[39m
+[15:27:19.496] [INFO] [1mSuccessful migrations:[22m
+
+[32mconsolidated-imports[39m, [32mremove-essential-addons[39m
+
+─────────────────────────────────────────────────
+
+If you'd like to run the migrations again, you can do so by running 
+[36mnpx storybook automigrate[39m
+
+The automigrations try to migrate common patterns in your project, but might not contain everything needed to migrate to the latest version of Storybook.
+
+Please check the changelog and migration guide for manual migrations and more information: 
+https://storybook.js.org/docs/releases/migration-guide?ref=upgrade
+And reach out on Discord if you need help: https://discord.gg/storybook
+[15:27:19.533] [INFO] Installing dependencies...
+[15:27:19.535] [INFO] install-dependencies-spinner-start: Installing dependencies...
+[15:27:19.540] [DEBUG] Executing command: npm install
+[15:27:49.944] [ERROR] Installation of dependencies failed! {"error":"ExecaError: Command failed with exit code 1: npm.cmd install\n\nnpm error code ERESOLVE\nnpm error ERESOLVE could not resolve\nnpm error\nnpm error While resolving: @angular-devkit/build-angular@16.2.16\nnpm error Found: @angular/compiler-cli@21.0.6\nnpm error node_modules/@angular/compiler-cli\nnpm error   dev @angular/compiler-cli@\"^21.0.6\" from the root project\nnpm error   peer @angular/compiler-cli@\"21.0.6\" from @angular/localize@21.0.6\nnpm error   node_modules/@angular/localize\nnpm error     dev @angular/localize@\"^21.0.6\" from the root project\nnpm error\nnpm error Could not resolve dependency:\nnpm error peer @angular/compiler-cli@\"^16.0.0\" from @angular-devkit/build-angular@16.2.16\nnpm error node_modules/@angular-devkit/build-angular\nnpm error   dev @angular-devkit/build-angular@\"^16.2.16\" from the root project\nnpm error   peer @angular-devkit/build-angular@\">=14.1.0 < 19.0.0\" from @storybook/angular@7.6.20\nnpm error   node_modules/@storybook/angular\nnpm error     @storybook/angular@\"^7.6.20\" from the root project\nnpm error\nnpm error Conflicting peer dependency: @angular/compiler-cli@16.2.12\nnpm error node_modules/@angular/compiler-cli\nnpm error   peer @angular/compiler-cli@\"^16.0.0\" from @angular-devkit/build-angular@16.2.16\nnpm error   node_modules/@angular-devkit/build-angular\nnpm error     dev @angular-devkit/build-angular@\"^16.2.16\" from the root project\nnpm error     peer @angular-devkit/build-angular@\">=14.1.0 < 19.0.0\" from @storybook/angular@7.6.20\nnpm error     node_modules/@storybook/angular\nnpm error       @storybook/angular@\"^7.6.20\" from the root project\nnpm error\nnpm error Fix the upstream dependency conflict, or retry\nnpm error this command with --force or --legacy-peer-deps\nnpm error to accept an incorrect (and potentially broken) dependency resolution.\nnpm error\nnpm error\nnpm error For a full report see:\nnpm error C:\\Users\\fortv\\AppData\\Local\\npm-cache\\_logs\\2026-01-02T09_57_20_386Z-eresolve-report.txt\nnpm error A complete log of this run can be found in: C:\\Users\\fortv\\AppData\\Local\\npm-cache\\_logs\\2026-01-02T09_57_20_386Z-debug-0.log\n    at getFinalError (file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/storybook/dist/_node-chunks/chunk-OVKHHS4W.js:13107:10)\n    at makeError (file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/storybook/dist/_node-chunks/chunk-OVKHHS4W.js:14643:15)\n    at getAsyncResult (file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/storybook/dist/_node-chunks/chunk-OVKHHS4W.js:17289:158)\n    at handlePromise (file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/storybook/dist/_node-chunks/chunk-OVKHHS4W.js:17275:162)\n    at async Object.executeTaskWithSpinner (file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/storybook/dist/_node-chunks/chunk-KH2A547Y.js:3679:11)\n    at async NPMProxy.installDependencies (file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/storybook/dist/_node-chunks/chunk-OVKHHS4W.js:11256:5)\n    at async doAutomigrate (file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/@storybook/cli/dist/_node-chunks/run-UJV4Z4V2.js:7701:32)\n    at async file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/@storybook/cli/dist/_node-chunks/run-UJV4Z4V2.js:9616:90\n    at async withTelemetry (file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/storybook/dist/_node-chunks/chunk-JXL37VS7.js:209:12)"}
+[15:27:49.944] [ERROR] install-dependencies-spinner-error: [31mInstallation of dependencies failed![39m
+[15:27:49.948] [ERROR] [38;2;241;97;97mExecaError: Command failed with exit code 1: npm.cmd install
+
+npm error code ERESOLVE
+npm error ERESOLVE could not resolve
+npm error
+npm error While resolving: @angular-devkit/build-angular@16.2.16
+npm error Found: @angular/compiler-cli@21.0.6
+npm error node_modules/@angular/compiler-cli
+npm error   dev @angular/compiler-cli@"^21.0.6" from the root project
+npm error   peer @angular/compiler-cli@"21.0.6" from @angular/localize@21.0.6
+npm error   node_modules/@angular/localize
+npm error     dev @angular/localize@"^21.0.6" from the root project
+npm error
+npm error Could not resolve dependency:
+npm error peer @angular/compiler-cli@"^16.0.0" from @angular-devkit/build-angular@16.2.16
+npm error node_modules/@angular-devkit/build-angular
+npm error   dev @angular-devkit/build-angular@"^16.2.16" from the root project
+npm error   peer @angular-devkit/build-angular@">=14.1.0 < 19.0.0" from @storybook/angular@7.6.20
+npm error   node_modules/@storybook/angular
+npm error     @storybook/angular@"^7.6.20" from the root project
+npm error
+npm error Conflicting peer dependency: @angular/compiler-cli@16.2.12
+npm error node_modules/@angular/compiler-cli
+npm error   peer @angular/compiler-cli@"^16.0.0" from @angular-devkit/build-angular@16.2.16
+npm error   node_modules/@angular-devkit/build-angular
+npm error     dev @angular-devkit/build-angular@"^16.2.16" from the root project
+npm error     peer @angular-devkit/build-angular@">=14.1.0 < 19.0.0" from @storybook/angular@7.6.20
+npm error     node_modules/@storybook/angular
+npm error       @storybook/angular@"^7.6.20" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error C:\Users\fortv\AppData\Local\npm-cache\_logs\2026-01-02T09_57_20_386Z-eresolve-report.txt
+npm error A complete log of this run can be found in: C:\Users\fortv\AppData\Local\npm-cache\_logs\2026-01-02T09_57_20_386Z-debug-0.log[39m
+    at getFinalError (file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/storybook/dist/_node-chunks/chunk-OVKHHS4W.js:13107:10)
+    at makeError (file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/storybook/dist/_node-chunks/chunk-OVKHHS4W.js:14643:15)
+    at getAsyncResult (file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/storybook/dist/_node-chunks/chunk-OVKHHS4W.js:17289:158)
+    at handlePromise (file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/storybook/dist/_node-chunks/chunk-OVKHHS4W.js:17275:162)
+    at async Object.executeTaskWithSpinner (file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/storybook/dist/_node-chunks/chunk-KH2A547Y.js:3679:11)
+    at async NPMProxy.installDependencies (file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/storybook/dist/_node-chunks/chunk-OVKHHS4W.js:11256:5)
+    at async doAutomigrate (file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/@storybook/cli/dist/_node-chunks/run-UJV4Z4V2.js:7701:32)
+    at async file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/@storybook/cli/dist/_node-chunks/run-UJV4Z4V2.js:9616:90
+    at async withTelemetry (file:///C:/Users/fortv/AppData/Local/npm-cache/_npx/b693f3f3cbcc59af/node_modules/storybook/dist/_node-chunks/chunk-JXL37VS7.js:209:12)
+[15:27:51.485] [ERROR] ExecaError: Command failed with exit code 1: npm.cmd install
+
+npm error code ERESOLVE
+npm error ERESOLVE could not resolve
+npm error
+npm error While resolving: @angular-devkit/build-angular@16.2.16
+npm error Found: @angular/compiler-cli@21.0.6
+npm error node_modules/@angular/compiler-cli
+npm error   dev @angular/compiler-cli@"^21.0.6" from the root project
+npm error   peer @angular/compiler-cli@"21.0.6" from @angular/localize@21.0.6
+npm error   node_modules/@angular/localize
+npm error     dev @angular/localize@"^21.0.6" from the root project
+npm error
+npm error Could not resolve dependency:
+npm error peer @angular/compiler-cli@"^16.0.0" from @angular-devkit/build-angular@16.2.16
+npm error node_modules/@angular-devkit/build-angular
+npm error   dev @angular-devkit/build-angular@"^16.2.16" from the root project
+npm error   peer @angular-devkit/build-angular@">=14.1.0 < 19.0.0" from @storybook/angular@7.6.20
+npm error   node_modules/@storybook/angular
+npm error     @storybook/angular@"^7.6.20" from the root project
+npm error
+npm error Conflicting peer dependency: @angular/compiler-cli@16.2.12
+npm error node_modules/@angular/compiler-cli
+npm error   peer @angular/compiler-cli@"^16.0.0" from @angular-devkit/build-angular@16.2.16
+npm error   node_modules/@angular-devkit/build-angular
+npm error     dev @angular-devkit/build-angular@"^16.2.16" from the root project
+npm error     peer @angular-devkit/build-angular@">=14.1.0 < 19.0.0" from @storybook/angular@7.6.20
+npm error     node_modules/@storybook/angular
+npm error       @storybook/angular@"^7.6.20" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error C:\Users\fortv\AppData\Local\npm-cache\_logs\2026-01-02T09_57_20_386Z-eresolve-report.txt
+npm error A complete log of this run can be found in: C:\Users\fortv\AppData\Local\npm-cache\_logs\2026-01-02T09_57_20_386Z-debug-0.log

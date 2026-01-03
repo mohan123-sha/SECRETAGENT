@@ -1,0 +1,1139 @@
+
+  {
+    "componentSet": "Examples / Home Page",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Mobile",
+          "Desktop"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Examples/About",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Mobile",
+          "Desktop"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Examples/Contact Us",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Mobile",
+          "Desktop"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Examples/Pricing",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Mobile",
+          "Desktop"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Examples/Waitlist",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Mobile",
+          "Desktop"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Examples/Landing Page",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Mobile",
+          "Desktop"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Examples/Article",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Mobile",
+          "Desktop"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Examples/Shop",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Mobile",
+          "Desktop"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Examples/Product Detail Page",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Mobile",
+          "Desktop"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Examples/Portfolio",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Mobile",
+          "Desktop"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Examples/AI Chat",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Accordion Item",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Closed",
+          "Open"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "AI Chat Box",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Active"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Avatar",
+    "properties": [
+      {
+        "property": "Type",
+        "values": [
+          "Initial",
+          "Image"
+        ]
+      },
+      {
+        "property": "Size",
+        "values": [
+          "Large",
+          "Small",
+          "Medium"
+        ]
+      },
+      {
+        "property": "Shape",
+        "values": [
+          "Circle",
+          "Square"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Avatar Group",
+    "properties": [
+      {
+        "property": "Spacing",
+        "values": [
+          "Overlap",
+          "Spaced"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Button",
+    "properties": [
+      {
+        "property": "Variant",
+        "values": [
+          "Primary",
+          "Neutral",
+          "Subtle"
+        ]
+      },
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Hover",
+          "Disabled"
+        ]
+      },
+      {
+        "property": "Size",
+        "values": [
+          "Medium",
+          "Small"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Icon Button",
+    "properties": [
+      {
+        "property": "Variant",
+        "values": [
+          "Primary",
+          "Neutral",
+          "Subtle"
+        ]
+      },
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Hover",
+          "Disabled"
+        ]
+      },
+      {
+        "property": "Size",
+        "values": [
+          "Medium",
+          "Small"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Button Group",
+    "properties": [
+      {
+        "property": "Align",
+        "values": [
+          "Justify",
+          "Start",
+          "End",
+          "Center",
+          "Stack"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Button Danger",
+    "properties": [
+      {
+        "property": "Variant",
+        "values": [
+          "Primary",
+          "Subtle"
+        ]
+      },
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Hover",
+          "Disabled"
+        ]
+      },
+      {
+        "property": "Size",
+        "values": [
+          "Medium",
+          "Small"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Calendar Button",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Hover",
+          "Active",
+          "Disabled",
+          "Range",
+          "Range Disabled",
+          "Hidden"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Card",
+    "properties": [
+      {
+        "property": "Asset Type",
+        "values": [
+          "Icon",
+          "Image"
+        ]
+      },
+      {
+        "property": "Variant",
+        "values": [
+          "Stroke",
+          "Default"
+        ]
+      },
+      {
+        "property": "Direction",
+        "values": [
+          "Horizontal",
+          "Vertical"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Pricing Card",
+    "properties": [
+      {
+        "property": "Device",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      },
+      {
+        "property": "Variant",
+        "values": [
+          "Stroke",
+          "Brand"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Dialog Body",
+    "properties": [
+      {
+        "property": "Type",
+        "values": [
+          "Card",
+          "Sheet"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Checkbox Field",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Disabled"
+        ]
+      },
+      {
+        "property": "Value Type",
+        "values": [
+          "Unchecked",
+          "Checked",
+          "Indeterminate"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Date Picker Field",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Error",
+          "Disabled"
+        ]
+      },
+      {
+        "property": "Value Type",
+        "values": [
+          "Default",
+          "Placeholder"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Date Input Field",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Error",
+          "Disabled"
+        ]
+      },
+      {
+        "property": "Value Type",
+        "values": [
+          "Default",
+          "Placeholder"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Input Field",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Disabled",
+          "Default",
+          "Error"
+        ]
+      },
+      {
+        "property": "Value Type",
+        "values": [
+          "Default",
+          "Placeholder"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Radio Field",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Disabled"
+        ]
+      },
+      {
+        "property": "Value Type",
+        "values": [
+          "Unchecked",
+          "Checked"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Select Field",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Error",
+          "Disabled"
+        ]
+      },
+      {
+        "property": "Value Type",
+        "values": [
+          "Default",
+          "Placeholder"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Search",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Disabled"
+        ]
+      },
+      {
+        "property": "Value Type",
+        "values": [
+          "Filled",
+          "Placeholder"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Slider Field",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Disabled"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Switch Field",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Disabled",
+          "Default"
+        ]
+      },
+      {
+        "property": "Value Type",
+        "values": [
+          "Unchecked",
+          "Checked"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Textarea Field",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Error",
+          "Disabled"
+        ]
+      },
+      {
+        "property": "Value Type",
+        "values": [
+          "Default",
+          "Placeholder"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Menu Item",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Hover",
+          "Disabled"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Navigation Button",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Hover",
+          "Active"
+        ]
+      },
+      {
+        "property": "Direction",
+        "values": [
+          "Column",
+          "Row"
+        ]
+      },
+      {
+        "property": "Type",
+        "values": [
+          "Small",
+          "Medium"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Navigation Button List",
+    "properties": [
+      {
+        "property": "Direction",
+        "values": [
+          "Row",
+          "Column"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Navigation Pill List",
+    "properties": [
+      {
+        "property": "Direction",
+        "values": [
+          "Row",
+          "Column"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Navigation Pill",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Active",
+          "Hover"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Notification",
+    "properties": [
+      {
+        "property": "Variant",
+        "values": [
+          "Message",
+          "Alert"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Pagination Next",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Hover",
+          "Disabled"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Pagination Previous",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Hover",
+          "Disabled"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Pagination Page",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Hover",
+          "Current",
+          "Current Hover"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Tab",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Hover"
+        ]
+      },
+      {
+        "property": "Active",
+        "values": [
+          "Off",
+          "On"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Tag",
+    "properties": [
+      {
+        "property": "Scheme",
+        "values": [
+          "Brand",
+          "Neutral",
+          "Positive",
+          "Danger",
+          "Warning"
+        ]
+      },
+      {
+        "property": "State",
+        "values": [
+          "Default",
+          "Hover"
+        ]
+      },
+      {
+        "property": "Variant",
+        "values": [
+          "Primary",
+          "Secondary"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Tag Toggle",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Off",
+          "On"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Text Content Heading",
+    "properties": [
+      {
+        "property": "Align",
+        "values": [
+          "Start",
+          "Center"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Text Content Title",
+    "properties": [
+      {
+        "property": "Align",
+        "values": [
+          "Start",
+          "Center"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Text Link List",
+    "properties": [
+      {
+        "property": "Density",
+        "values": [
+          "Default",
+          "Tight"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Text List",
+    "properties": [
+      {
+        "property": "Density",
+        "values": [
+          "Default",
+          "Tight"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Text Price",
+    "properties": [
+      {
+        "property": "Size",
+        "values": [
+          "Large",
+          "Small"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Tooltip",
+    "properties": [
+      {
+        "property": "Placement",
+        "values": [
+          "Top",
+          "Left",
+          "Right",
+          "Bottom"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Card Grid Icon",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Card Grid Image",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Card Grid Content List",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Card Grid Pricing",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Card Grid Testimonials",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Card Grid Reviews",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Page Accordion",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Page Product",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Page Product Results",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Page Newsletter",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Panel Image Content",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Panel Image Content Reverse",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Panel Image",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Panel Image Double",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Hero Basic",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Hero Actions",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Hero Newsletter",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Hero Form",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Hero Image",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Footer",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "AI Chatbot",
+    "properties": [
+      {
+        "property": "Device",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Header",
+    "properties": [
+      {
+        "property": "Platform",
+        "values": [
+          "Desktop",
+          "Mobile"
+        ]
+      },
+      {
+        "property": "State",
+        "values": [
+          "Open",
+          "Default"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "Header Auth",
+    "properties": [
+      {
+        "property": "State",
+        "values": [
+          "Logged In",
+          "Logged Out",
+          "Logged In - Hover"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "_Component Annotation",
+    "properties": [
+      {
+        "property": "Direction",
+        "values": [
+          "Right",
+          "Top",
+          "Bottom",
+          "Left"
+        ]
+      },
+      {
+        "property": "Type",
+        "values": [
+          "Primary",
+          "Secondary",
+          "Group"
+        ]
+      }
+    ]
+  },
+  {
+    "componentSet": "_Component Note",
+    "properties": [
+      {
+        "property": "Type",
+        "values": [
+          "Annotation",
+          "Documentation"
+        ]
+      }
+    ]
+  }
+]
